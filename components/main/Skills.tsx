@@ -5,7 +5,7 @@ import SkillDataProvider from '../sub/SkillDataProvider'
 import SkillText from '../sub/SkillText'
 
 const Skills = () => {
-  return (
+return (
     <section
     id='skills'
     className='flex flex-col items-center justify-center gap-3 h-full relative overflow-hidden pb-80 py-20'
@@ -89,7 +89,7 @@ const Skills = () => {
 
         </div>
     </section>
-  )
+)
 }
 
 export default Skills
