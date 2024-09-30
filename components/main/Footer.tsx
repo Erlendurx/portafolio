@@ -15,10 +15,10 @@ const Footer = () => {
         <div className='w-full h-full flex flex-col items-center justify-center m-auto'>
             <div className='w-full h-full flex flex-row items-center justify-around flex-wrap'>
                 <div className='min-w-[200px] h-auto flex flex-col items-center justify-start'>
-                    <div className='font-bold text-[16px]'>Communuty</div>
+                    <div className='font-bold text-[16px]'>Contactos</div>
                     <p className='flex flex-row items-center my-[15px] cursor-pointer'>
-                        <FaYoutube />
-                        <span className='text-[15px] ml-[6px]'>Youtube</span>
+                        <RxLinkedinLogo />
+                        <span className='text-[15px] ml-[6px]'>Linkedin</span>
                     </p>
                     <p className='flex flex-row items-center my-[15px] cursor-pointer'>
                         <RxGithubLogo />
@@ -30,7 +30,7 @@ const Footer = () => {
                     </p>
                 </div>
                 <div className='min-w-[200px] h-auto flex flex-col items-center justify-start'>
-                    <div className='font-bold text-[16px]'>Social media</div>
+                    <div className='font-bold text-[16px]'>Redes Sociales</div>
                     <p className='flex flex-row items-center my-[15px] cursor-pointer'>
                         <RxInstagramLogo />
                         <span className='text-[15px] ml-[6px]'>Instagram</span>
@@ -40,17 +40,17 @@ const Footer = () => {
                         <span className='text-[15px] ml-[6px]'>Twitter</span>
                     </p>
                     <p className='flex flex-row items-center my-[15px] cursor-pointer'>
-                        <RxLinkedinLogo />
-                        <span className='text-[15px] ml-[6px]'>Linkedin</span>
+                        <FaYoutube />
+                        <span className='text-[15px] ml-[6px]'>Youtube</span>
                     </p>
                 </div>
                 <div className='min-w-[200px] h-auto flex flex-col items-center justify-start'>
-                    <div className='font-bold text-[16px]'>Abbout</div>
+                    <div className='font-bold text-[16px]'>Sobre mi</div>
                     <p className='flex flex-row items-center my-[15px] cursor-pointer'>
-                        <span className='text-[15px] ml-[6px]'>Become sponsor</span>
+                        <span className='text-[15px] ml-[6px]'>Buscando sponsor</span>
                     </p>
                     <p className='flex flex-row items-center my-[15px] cursor-pointer'>
-                        <span className='text-[15px] ml-[6px]'>Learning about me</span>
+                        <span className='text-[15px] ml-[6px]'>Informacion sobre mi</span>
                     </p>
                     <p className='flex flex-row items-center my-[15px] cursor-pointer'>
                         <span className='text-[15px] ml-[6px]'>erlanleon10@gmail.com</span>

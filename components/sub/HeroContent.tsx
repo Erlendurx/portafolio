@@ -29,9 +29,9 @@ return (
         className='flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto'
         >
             <span>
-            Texto de prueba
-            <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'> antes de cerrar </span>
-            el proyecto
+            Ofreciendo
+            <span className='text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'> la mejor  </span>
+            experiencia de proyectos
             </span>
         </motion.div>
 
@@ -39,13 +39,13 @@ return (
         variants={slideInFromLeft(0.8)}
         className='text-lg text-gray-400 my-5 max-w-[600px]' 
         >
-            Texto de prueba antes de cerrar el commit
+            Soy un estudiante en desarrollo de software con conocimientos generales en desarrollo web, modelados 3D y aplicaciones mobiles. 
         </motion.p>
         <motion.a
         variants={slideInFromLeft(1)}
-        className='py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w[200px]'
+        className='py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]'
         >
-            Texto de prueba
+            Leer mas!
         </motion.a>
         </div>
 
